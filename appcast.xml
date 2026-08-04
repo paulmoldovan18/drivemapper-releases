@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Drive Mapper</title>
+    <item>
+      <title>1.1</title>
+      <pubDate>Tue, 04 Aug 2026 15:40:58 +0300</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/paulmoldovan18/drivemapper-releases/releases/download/v1.1/DriveMapperJST-1.1.zip"
+        sparkle:edSignature="cOTDi9kaZusnoQzaEVF6b8oF3/MYP8XEZhCmoISiCKZXPUfChOrA7zE+nxFVixY3zxE9Nan9Xs6l8CXFHcg2AA=="
+        length="8880863"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
