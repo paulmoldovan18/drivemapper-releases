@@ -3,6 +3,19 @@
   <channel>
     <title>Drive Mapper</title>
     <item>
+      <title>1.27</title>
+      <pubDate>Sun, 25 Oct 2026 15:14:02 +0200</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/paulmoldovan18/drivemapper-releases/releases/tag/v1.27</sparkle:releaseNotesLink>
+      <enclosure
+        url="https://github.com/paulmoldovan18/drivemapper-releases/releases/download/v1.27/DriveMapperJST-1.27.zip"
+        sparkle:edSignature="+Mh2QOsTodxGkiQqWZcMSb3ctebvtLIrLRRzCdTNmzUPEiqf8ep5oVK7tIXnJ1cFe/nQ9Zt/TglOmeUQCnXYCQ=="
+        length="7505553"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.26</title>
       <pubDate>Sun, 25 Oct 2026 14:57:44 +0200</pubDate>
       <sparkle:version>27</sparkle:version>
